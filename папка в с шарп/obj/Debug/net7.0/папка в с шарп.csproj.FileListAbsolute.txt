@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\bin\Debug\net7.0\папка в с шарп.exe
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\bin\Debug\net7.0\папка в с шарп.deps.json
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\bin\Debug\net7.0\папка в с шарп.runtimeconfig.json
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\bin\Debug\net7.0\папка в с шарп.dll
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\bin\Debug\net7.0\папка в с шарп.pdb
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\папка в с шарп.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\папка в с шарп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\папка в с шарп.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\папка в с шарп.AssemblyInfo.cs
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\папка в с шарп.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\папка в с шарп.dll
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\refint\папка в с шарп.dll
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\папка в с шарп.pdb
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\папка в с шарп.genruntimeconfig.cache
+C:\Users\user\Desktop\новая папка с шарп\папка в с шарп\obj\Debug\net7.0\ref\папка в с шарп.dll

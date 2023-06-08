@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "папка в с шарп/1.0.0": {
+        "runtime": {
+          "папка в с шарп.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "папка в с шарп/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
